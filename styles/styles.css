@@ -1,14 +1,10 @@
-* {
-    font-family: 'Open Sans', sans-serif;
-    margin: 0;
-    padding: 0;
-}
 
 
 .banner {
     background: rgba(229, 84, 115, 0.10);
     display: flex;
     align-items: center;
+    width: 1745px;
 }
 
 .banner-section {
@@ -41,3 +37,202 @@
     height: 600px;
     margin: 50px 100px 0px;
 }
+
+.tittle {
+    color: #272727;
+    font-size: 40px;
+
+}
+
+.hi {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.Flower {
+    margin-bottom: 48px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.profile {
+    width:
+
+
+}
+
+
+
+.photo {
+    display: flex;
+    width: 1320px;
+    height: 667px;
+}
+
+.arif {
+    margin: 110px 76px 0px 78px;
+
+}
+
+.life {
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    margin: 20px 24px 0px 100px;
+
+}
+
+.red {
+    width: 370px;
+    height: 370px;
+    flex-shrink: 0;
+    margin: 117px 47px 51px 47px;
+
+}
+
+.pond {
+    width: 464px;
+    margin: 20px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+
+}
+
+.afnan {
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    margin-top: 20px;
+    margin-left: 24px;
+
+}
+
+.jamela {
+    width: 314px;
+    height: 464px;
+    margin: 75px 67px 75px
+}
+
+.bye {
+    margin-top: 100px;
+}
+
+.jisan {
+    display: flex; width: 1747px;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+.nuziha{
+    margin-left: 501px;
+}
+.pitha{
+    margin-left:200px ;
+}
+.adiyan{
+    color: #272727;
+
+font-size: 40px;
+margin-bottom: 20px; 
+
+
+}
+.Off{
+    color: #E55473; 
+}
+ .kha{
+    margin-bottom: 20px;color: rgba(39, 39, 39, 0.60);
+    
+    
+    font-size: 18px;
+    
+    
+    
+    
+ }
+ .abc{
+    
+    color: #272727;
+text-align: center;
+
+font-size: 40px; margin-top: 128px;
+ }
+ .def{color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    
+    font-size: 18px; margin-top: 24px; margin-bottom: 48px;
+ }
+ .soul{
+    display: flex;
+ }
+ .a{ margin-right:20px;
+    margin-left:190px ;
+  } 
+  .b{
+    margin-right: 20px;
+  }
+  .c{
+    margin-right: 20px;
+  }
+  .d{ margin-right: 190px;}
+  .hp{
+    color: #272727;
+text-align: center;
+
+font-size: 40px; margin-top:90px ;
+
+
+  }
+  .apple{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+
+font-size: 18px; margin-top: 90px;
+
+  }
+  .mic{border-radius: 8px;
+    background: #FFF;
+    border: 0;
+    padding: 20px 200px 20px 20px;
+}
+.samsung{
+    text-align:center ; margin-bottom: 100px; margin-top:100px ;
+}
+.realme{ height:400px ; margin-left: 180px ;
+    margin-top: 100px;
+    border-radius: 8px;
+background: url("../Flower Asset/Rectangle\ 9.png"), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+}
+.chh{
+    margin-bottom:100px ;color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    
+    font-size: 16px;}
+    .abd{
+        margin-bottom:24px ;color: rgba(255, 255, 255, 0.90);
+        text-align: center;
+        
+        font-size: 18px;
+        
+        
+    }.tatas{
+        
+
+font-size: 48px; text-align: center;
+
+    }
+    .ff{
+        background-color: black; width: 1740px;
+    }
+  
+   
+  
+
+ 
